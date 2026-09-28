@@ -1,0 +1,6 @@
+fastapi[standard]
+pymongo[srv]
+pwdlib[argon2]
+pyjwt
+python-multipart
+python-dotenv

@@ -1,0 +1,7 @@
+# Entorno virtual
+venv/
+# Secretos: NUNCA subir el .env
+.env
+# Cache de Python
+__pycache__/
+*.pyc
